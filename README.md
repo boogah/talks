@@ -4,5 +4,5 @@ Listed below are presentations that I've given at assorted conferences, with lin
 
 ### 2016
 
-* **WordCamp Sacramento** — *Scaling WordPress With Load Testing* ([src](https://goo.gl/2RN3EQ)) ([bin](https://goo.gl/P59X3h))
+* **WordCamp Sacramento** — *[Scaling WordPress With Load Testing](https://goo.gl/P59X3h)* ([src](https://goo.gl/2RN3EQ))
   * Generated from Markdown in Deckset using the Merriweather theme.
