@@ -10,15 +10,31 @@ footer: boogah.org/wcoc17
 
 ---
 
+# Hi
+
+![](http://riotgirl.club/~boogah/wave.gif)
+
+^ I'm about to hit you with some pretty dry stuff up top. But I promise that I'll be quick about it.
+
+---
+
 # [fit] What is Valet?
 
 ![](mike-wilson-36140.jpg)
+
+^ Valet is a PHP development environment for, as the project site says, "minimalists". Originally developed for the Laravel PHP framework, Valet also supports other PHP projects, such as WordPress, through the use of "drivers".
+
+^ While the primary distribution of Valet is for macOS, there are unofficial ports for the Windows and Linux folks in the crowd. With that being said, I'm going to be focusing on the macOS version today. Hope that's not a deal breaker for anyone. [pause for people to leave the room] Okay. Good.
 
 ---
 
 # [fit] Why Valet?
 
 ![](mike-wilson-36140.jpg)
+
+^ If you saw how cluttered the area around my desk is, you'd be pretty hard pressed to call me a minimalist. But when it comes to development environments, I run a pretty tight ship.
+
+^ One of the most appealing things, to me, about Valet is how lightweight it is. The core components—which are installed through Homebrew and the Composer dependency manager—take up no more than a few hundred MB on my laptop. On top of that, Valet uses around 10MB of RAM while idle.
 
 ---
 
@@ -151,13 +167,25 @@ Connections                   ttl     opn     rt1     rt5     p50     p90
 
 # Installing Elasticsearch
 
-``` [.highlight: 1]
+```
 → brew install elasticsearch
 ```
 
 ---
 
 ![inline](modok_elasticpress.jpg)
+
+---
+
+# Maintaining Elasticsearch
+
+```
+→ brew pin elasticsearch
+```
+
+---
+
+![inline](modok_elasticpress_error.jpg)
 
 ---
 
