@@ -98,7 +98,7 @@ background-color: #FFA3D7
 
 # [fit] Installing Valet
 
-# [fit] https://goo.gl/VtBKPq
+## `https://goo.gl/VtBKPq`
 
 ![right inline](install-valet-qr.png)
 
