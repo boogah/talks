@@ -6,13 +6,31 @@ background-color: #FFA3D7
 # [fit] Minimal
 # [fit] Dev
 
-^ Okay. Let's talk about development environments.
+^ Okay. Let's talk about local development environments.
+
+---
+
+# [fit] What are local
+# [fit] development
+# [fit] environments?
+
+^ Local development environments involve a specialized software stack that runs on your laptop or desktop. This stack allows your computer to emulate a live site while still keeping your work private. Kind of like a staging site, but way less formal.
+
+^ And because dev environments run locally, you don't have to worry about uploading any changes you make. You can dig right into your site's code with your favorite text editor and see your work as soon as you hit save.
+
+^ Dev environments are handy when you want to test something out — such as a new plugin or theme — and can't afford to experiment on your production environment.
 
 ---
 
 # [fit] Who should
 # [fit] use a development
 # [fit] environment?
+
+^ Honestly, and maybe I'm a little biased here because I'm talking about development environments, but I think that almost anyone could benefit from doing some of their work in a development environment.
+
+^ About a year ago at a local WordPress meetup, a retiree showed up with a strong desire to get into WordPress. He had spent his career developing applications in Fortran, and wanted to spend his retirement diving into WordPress by making a site to share his stories.
+
+^ He wasn't interested in hosting his site on `wordpress.com`. And, because of his personality, he was insistent on understanding WordPress before throwing any of his fixed income at a hosting account. A couple of us took him on as a project and helped him get a local environment set up on his laptop at the next meeting.
 
 ---
 
@@ -42,7 +60,7 @@ background-color: #FFA3D7
 
 ^ If I had to think of Vagrant solutions built specifically for WordPress off the top of my head, I'd say: VVV, Chassis, VCCW, HGV, and Primary Vagrant. And I know I'm missing at least half a dozen others.
 
-^ The problem with Vagrant is that it has a tendency to fall apart at the worst possible times.
+^ The problem with Vagrant is that it has a tendency to fall apart at the worst possible times. Or, it won't even provision to begin with.
 
 ---
 
